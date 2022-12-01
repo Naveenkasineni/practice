@@ -1,7 +1,7 @@
 +<aTag>
-  <simpleType>This is a simple type</simpleType>
+  <simpleType>This is a simple type</sampleType>
  
   <complexType>
-    <simpleType>This is a complex type</simpleType>
+    <simpleType>This is a complex type</sampleType>
   </complexType>
 </aTag>
